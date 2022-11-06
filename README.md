@@ -1,2 +1,2 @@
-# Leon-Web-Template_1
+# Template_1
 My firtstHTML\CSS practice template, leon.

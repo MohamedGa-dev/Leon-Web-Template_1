@@ -1,2 +1,2 @@
 # Template_1
-My firtstHTML\CSS practice template, leon.
+My first HTML\CSS only practice template Leon.

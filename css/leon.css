@@ -15,6 +15,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Work Sans', sans-serif;
 }
@@ -499,8 +503,10 @@ body {
     text-align: center;
     color: white;
 }
+
 .footer span {
     color: var(--main-color);
     font-weight: bold;
 }
+
 /* End footer */
